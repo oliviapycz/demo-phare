@@ -12,7 +12,7 @@ root.render(
   <BrowserRouter>
     <header className="App-header">
       <span>Demo Lighthouse - Projet Phare</span>
-      <nav>
+      <nav className="App-nav">
         <Link to="/">Accueil</Link>
         <Link to="/bieres-phares">Nos Bières Phares</Link>
         <Link to="/on-parle-de-nous">On Parle De Nous</Link>

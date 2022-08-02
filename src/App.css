@@ -12,6 +12,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-nav > a {
+  margin-right: 8px;
+}
 
 .App-content {
   padding: 1rem;
